@@ -17,6 +17,4 @@
 
 <img src="https://github.com/KasRoudra/simplecalculator/raw/main/source.jpeg">
 
-### Source Code credit <a href="https://github.com/CMDann/Simple-Android-Calculator">CMDann</a>
-
 #### Developed for learning purposes. New java learners can easlily understand how calculator works by this small and simple app.
